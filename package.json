@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeckBlank/nodetest.git"
+  },
+  "author": "JLGS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeckBlank/nodetest/issues"
+  },
+  "homepage": "https://github.com/DeckBlank/nodetest#readme"
+}
